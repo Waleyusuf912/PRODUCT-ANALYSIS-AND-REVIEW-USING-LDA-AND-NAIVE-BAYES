@@ -3,5 +3,6 @@ pandas
 numpy
 scikit-learn
 nltk
-selenium
-webdriver-manager
+textblob
+matplotlib
+seaborn

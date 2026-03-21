@@ -119,7 +119,7 @@ try:
 
     st.divider()
     st.subheader("Raw Review Data Preview")
-    st.dataframe(df[['Product_Name', 'Review_Content', 'NB_Predicted_Sentiment', 'Aspect']].head(50))
+    st.dataframe(df[['Product_Name', 'Review_Content', 'NB_Predicted_Sentiment', 'Aspect']].sample(50))
 
 except FileNotFoundError:
     st.error("🚨 Missing file! Please ensure 'jumia_reviews_dataset.csv' is uploaded exactly with this name to your GitHub repository.")

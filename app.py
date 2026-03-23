@@ -15,8 +15,7 @@ import seaborn as sns
 # --- PAGE SETUP ---
 st.set_page_config(page_title="SmartReview AI", layout="wide")
 
-st.title("PRODUCT-ANALYSIS-AND-REVIEW-USING-LDA-AND-NAIVE-BAYES
-")
+st.title("PRODUCT-ANALYSIS-AND-REVIEW-USING-LDA-AND-NAIVE-BAYES")
 st.markdown("**Impact Pillar: Digital Inclusion** | AI-powered recommendation engine mapping consumer sentiment.")
 st.divider()
 

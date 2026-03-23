@@ -3,7 +3,7 @@
 **3MTT NEXTGEN KNOWLEDGE SHOWCASE SUBMISSION**
 * **Impact Pillar:** Digital Inclusion
 
-## 📖 Project Overview
+## Project Overview
 SmartReview is a web application designed to help everyday consumers navigate the overwhelming amount of information in Nigerian e-commerce. By scraping smartphone user reviews directly from Jumia, the app uses Natural Language Processing to automatically extract key product topics and analyze overall sentiment. 
 
 It transforms hundreds of mixed reviews into a clear, data-driven purchasing recommendation. This solution promotes digital inclusion by building consumer trust, reducing buyer's remorse, and empowering users to make safe, informed financial decisions online.

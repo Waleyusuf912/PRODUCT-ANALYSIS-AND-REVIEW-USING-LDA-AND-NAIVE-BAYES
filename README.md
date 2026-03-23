@@ -1,4 +1,4 @@
-# SmartReview: AI-Powered E-Commerce Assistant
+# PRODUCT-ANALYSIS-AND-REVIEW-USING-LDA-AND-NAIVE-BAYES
 
 **3MTT NEXTGEN KNOWLEDGE SHOWCASE SUBMISSION**
 * **Impact Pillar:** Digital Inclusion
